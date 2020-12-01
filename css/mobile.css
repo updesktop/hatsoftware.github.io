@@ -1,0 +1,12 @@
+@media screen and (max-width: 900px) {
+    #div_nav{ height:80px; }
+    
+    #jeheader img{ height:80px; }
+
+    #hd_1{ font-size:18px;height:50%;padding:10px 0 0 0;text-align:center; }
+    #hd_2{ font-size:12px;height:50%;padding:0px 0 0 0;text-align:center; }
+
+    .xgtco-nav{
+        height:50px;
+    }
+}
