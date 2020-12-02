@@ -17,6 +17,14 @@ body {
   line-height: 1.7;
   color: #777;
   background: #fff;
+
+  min-height:100%;
+  margin:0;
+  padding:0; 
+}
+
+* {
+  box-sizing: border-box;
 }
 
 #page {
@@ -2064,5 +2072,5 @@ form label {
 
 #div_nav{ height:100px; }
 #jeheader img{ height:100px; }
-#hd_1{ font-size:35px;height:50%;padding:0px 0 0 0;text-align:center;background:none; }
-#hd_2{ font-size:22px;height:50%;padding:0px 0 0 0;text-align:center;background:none; }
+#hd_1{ font-size:35px;height:50px;margin:0px;padding:10px 0 0 0;text-align:center;background:none; }
+#hd_2{ font-size:22px;height:auto;margin:0px;padding:0px 0 0px 0;text-align:center;background:none; }

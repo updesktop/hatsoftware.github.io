@@ -3,8 +3,8 @@
     
     #jeheader img{ height:80px; }
 
-    #hd_1{ font-size:18px;height:50%;padding:10px 0 0 0;text-align:center; }
-    #hd_2{ font-size:12px;height:50%;padding:0px 0 0 0;text-align:center; }
+    #hd_1{ font-size:18px;height:35px;padding:15px 0 0 0;text-align:center;background:none; }
+    #hd_2{ font-size:12px;height:auto;padding:0px 0 0 0;text-align:center;background:none; }
 
     .xgtco-nav{
         height:50px;
